@@ -1,4 +1,4 @@
-# Hey there! 👋 I'm @PuriSeth and I'm a data enthusiast and aspiring machine learning engineer.
+# Hey there! 👋👋👋 I'm @PuriSeth and I'm a data enthusiast and aspiring machine learning engineer.
 
 ## Interests
 
