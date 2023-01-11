@@ -15,6 +15,6 @@
 - 💡 Collaboration opportunities on data science projects
 - 🤝 Connections with other data enthusiasts and professionals
 
-## Reach me at
+## Reach me at 
 
 - 🔗 [GitHub](https://github.com/PuriSeth)
